@@ -1,4 +1,4 @@
-# Olá, eu sou a Valesca 👋
+# Olá, eu sou a Valesca 👋🏾
 
 **Desenvolvedora Back-End | Estudante de Ciência da Computação**
 
@@ -8,21 +8,21 @@ O meu trabalho foca-se em entregar código estruturado, rigor metodológico e em
 
 ---
 
-### 💻 Áreas de atuação
+### 👩🏾‍💻 Áreas de atuação
 - **Desenvolvimento Back-End:** Construção de lógicas de negócio, APIs e estruturação de bases de dados.
 - **Ciência da Computação:** Fundamentos de arquitetura de software, algoritmos, Iniciação Científica e metodologia de pesquisa.
 - **Análise de Dados:** Extração e limpeza de dados (ETL), estatística descritiva e criação de visualizações (*storytelling* com dados).
 
 ---
 
-### 🎓 Formação & Certificações
-- 🎓 **Bacharelado em Ciência da Computação** *(Em andamento)*
-- 🔬 **Iniciação Científica / Pesquisa Acadêmica** *(Ativa)*
-- 🏆 **Profissional de Análise de Dados** – *Google & CIEE*
+### 👩🏾‍🎓 Formação & Certificações
+-  **Bacharelado em Ciência da Computação** *(Em andamento)*
+-  **Iniciação Científica / Pesquisa Acadêmica** *(Ativa)*
+-  **Profissional de Análise de Dados** – *Google & CIEE*
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 👩🏾‍🔧 Tecnologias e Ferramentas
 
 **Linguagens & Base de Dados:**
 <p align="left">
