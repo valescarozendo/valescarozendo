@@ -1,22 +1,28 @@
-# Olá, eu sou a Valesca! 👋
+# Olá, eu sou a Valesca 👋
 
 **Desenvolvedora Back-End | Estudante de Ciência da Computação**
 
-Sou uma apaixonada por tecnologia com foco em desenvolvimento Back-End e criação de sistemas robustos. Atualmente a estudar Ciência da Computação, adoro explorar a interseção entre o desenvolvimento de software escalável e a extração de valor através da Análise de Dados.
+O meu foco é a construção de sistemas lógicos, escaláveis e o tratamento inteligente de dados. Como estudante de Ciência da Computação, exploro diariamente soluções arquiteturais consistentes e desenvolvo pesquisa acadêmica (Iniciação Científica).
 
-O meu principal objetivo é desenhar arquiteturas eficientes, escrever código limpo e resolver problemas complexos com soluções inovadoras e bem estruturadas.
+O meu trabalho foca-se em entregar código estruturado, rigor metodológico e em resolver problemas através de lógicas de negócio sólidas.
 
 ---
 
-### 💻 Áreas de Foco
+### 💻 Áreas de atuação
 - **Desenvolvimento Back-End:** Construção de lógicas de negócio, APIs e estruturação de bases de dados.
-- **Ciência da Computação:** Fundamentos de arquitetura de software, algoritmos e estruturas de dados.
-- **Análise de Dados:** Extração e limpeza de dados (ETL), e criação de visualizações descritivas (*storytelling* com dados) como suporte para decisões lógicas.
+- **Ciência da Computação:** Fundamentos de arquitetura de software, algoritmos, Iniciação Científica e metodologia de pesquisa.
+- **Análise de Dados:** Extração e limpeza de dados (ETL), estatística descritiva e criação de visualizações (*storytelling* com dados).
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
-*(Em constante evolução e aprendizagem)*
+### 🎓 Formação & Certificações
+- 🎓 **Bacharelado em Ciência da Computação** *(Em andamento)*
+- 🔬 **Iniciação Científica / Pesquisa Acadêmica** *(Ativa)*
+- 🏆 **Profissional de Análise de Dados** – *Google & CIEE*
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Base de Dados:**
 <p align="left">
@@ -32,7 +38,7 @@ O meu principal objetivo é desenhar arquiteturas eficientes, escrever código l
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-**Ferramentas & DevOps:**
+**Ferramentas:**
 <p align="left">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -43,12 +49,12 @@ O meu principal objetivo é desenhar arquiteturas eficientes, escrever código l
 
 ### 🚀 Projetos em Destaque
 
-*   🌱 **[Hábitos Tecnológicos e Geração de Lixo Eletrónico](https://github.com/valescarozendo/analise-lixo-eletronico)** 
-    *   *Um projeto de Análise Exploratória de Dados (EDA) focado em extrair insights sobre o comportamento do consumidor, utilizando Python, Pandas e Seaborn.*
+*   **[Do Consumo à Obsolescência: Hábitos Tecnológicos e Geração de Lixo Eletrônico](https://github.com/valescarozendo/analise-lixo-eletronico)** 
+    *   *Projeto de Análise Exploratória de Dados (EDA) focado no ciclo de vida de dispositivos e impacto do lixo eletrônico (E-waste). Tratamento e análise de dados coletados originalmente, construído com Python, Pandas e Seaborn.*
 
 ---
 
-### 📫 Como encontrar-me:
+### 📫 Contato
 <p align="left">
   <a href="https://linkedin.com/in/vrznd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
