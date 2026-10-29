@@ -1,4 +1,4 @@
-# Olá, eu sou a Valesca 👋
+# Olá, eu sou a Valesca 👋🏾
 
 **Desenvolvedora Back-End & Engenharia de Dados**
 
@@ -8,21 +8,22 @@ Tenho foco em entregar código limpo, testado e com arquitetura orientada a obje
 
 ---
 
-### 💻 Áreas de atuação
+### 👩🏾‍💻 Áreas de atuação
 - **Engenharia de Dados & IA:** Construção de pipelines (ETL/ELT), sanitização e modelagem de dados, e integração de APIs de LLM.
 - **Desenvolvimento Back-End:** Construção de lógicas de negócio, consumo de APIs e estruturação de bancos de dados.
 - **Ciência da Computação:** Fundamentos de arquitetura de software, algoritmos, Iniciação Científica e metodologia de pesquisa.
 
 ---
 
-### 🎓 Formação & Certificações
-- 🎓 **Bacharelado em Ciência da Computação** *(Em andamento - UniJorge)*
-- 🔬 **Iniciação Científica / Pesquisa Aplicada** *(Ativa - Pesquisa em processamento de dados e cultura Rap)*
-- 🏆 **Profissional de Análise de Dados** – *Google / CIEE+*
+### 👩🏾‍🎓 Formação & Certificações
+
+- **Bacharelado em Ciência da Computação** *(Em andamento - UniJorge)*
+- **Iniciação Científica / Pesquisa Aplicada** *(Ativa)*
+- **Profissional de Análise de Dados** – *Google / CIEE+*
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 👩🏾‍🔧 Tecnologias e Ferramentas
 
 **Linguagens de Programação:**
 <p align="left">
