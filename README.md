@@ -1,4 +1,4 @@
-# Olá, eu sou a Valesca 👋🏾
+# Olá, eu sou a Valesca 
 
 **Desenvolvedora Back-End & Engenharia de Dados**
 
